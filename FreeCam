@@ -1,4 +1,8 @@
--- Made by RoKanchik_YT
+-- made by rokanchik
+
+print("Successfully executed Free Cam")
+print("made by @rokanchik")
+
 function sandbox(var,func)
 local env = getfenv(func)
 local newenv = setmetatable({},{
